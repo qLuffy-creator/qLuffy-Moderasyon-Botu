@@ -1,7 +1,7 @@
 # 🤖 qLuffy Discord Bot
 
 > Akıllı, hızlı ve tamamen özelleştirilebilir bir Discord botu.  
-> Geliştirme aşamasında olan bu bot; moderasyon, eğlence, ekonomi ve premium sistemleriyle sunucularınıza güç katmayı hedefliyor.
+> Geliştirme aşamasında olan bu bot; moderasyon sistemleriyle sunucularınıza güç katmayı hedefliyor.
 
 ---
 
@@ -9,16 +9,7 @@
 
 - 🔨 **Moderasyon Komutları**  
   Ban, Kick, Timeout, Clear gibi temel yönetim araçları.
-  
-- 💰 **Ekonomi Sistemi**  
-  Sunucu içi para birimi (Kinas 💸), çekme-yatırma ve özel mağaza sistemi.
-  
-- 💎 **Premium Sistem**  
-  Premium üyeler için özel komutlar, renkli embed mesajları ve istatistik raporları.
-  
-- 🕹️ **Eğlence Komutları**  
-  Oyunlar, mini yarışmalar, anonim sohbet sistemi ve daha fazlası!
-  
+
 - 📊 **Bot Bilgi Komutu**  
   Botun durumu, kütüphane sürümleri, toplam kullanıcı sayısı, uptime bilgileri.
   
@@ -31,10 +22,7 @@
 
 | Özellik | Durum |
 |----------|--------|
-| Moderasyon Komutları | 🟢 Tamamlandı |
-| Ekonomi Sistemi | 🟡 Yapım Aşamasında |
-| Premium Sistem | 🟡 Planlama Aşamasında |
-| Anonim Sohbet | 🟢 Test Aşamasında |
+| Moderasyon Komutları | 🔵 Geliştirme Aşamasında |
 | Bot Bilgi Komutu | 🔵 Geliştirme Aşamasında |
 
 ---
